@@ -13,17 +13,17 @@ For my OS of choice, I decided to go with Linux Mint for the following reasons:
 * Just Debian was a bit too little for me; I wanted little to no complicated customization.
 * Something that felt *similar* to Windows would be good; though Cinnamon is not the best for this, it's pretty okay.
 * I needed an OS that can just *work* for a wide variety of uses. Overall, I use this laptop for:
- * programming (usually done with JetBrains IDEs)
- * gaming (usually from Steam; the only games I play that aren't from Steam are Minecraft and Honkai: Star Rail)
- * productivity (usually through Microsoft Office, which my university pays for)
- * system administration (SSH, Docker, etc.)
- * web browsing (usually with Firefox, which makes this area more painless than others)
-  * This unfortunately includes sandboxed web browsing, like with the Respondus Lockdown Browser, which just *doesn't* work on Linux *at all*.
- * virtualization (usually with VirtualBox; this is for both university work and sandboxing [SCM](https://en.wikipedia.org/wiki/Software_configuration_management) tests)
- * recording and streaming (usually with OBS Studio)
- * audio editing (usually with Audacity/Tenacity)
- * video editing (usually with Adobe Premiere)
- * graphic design (usually with Adobe Illustrator)
+  * programming (usually done with JetBrains IDEs)
+  * gaming (usually from Steam; the only games I play that aren't from Steam are Minecraft and Honkai: Star Rail)
+  * productivity (usually through Microsoft Office, which my university pays for)
+  * system administration (SSH, Docker, etc.)
+  * web browsing (usually with Firefox, which makes this area more painless than others)
+    * This unfortunately includes sandboxed web browsing, like with the Respondus Lockdown Browser, which just *doesn't* work on Linux *at all*.
+  * virtualization (usually with VirtualBox; this is for both university work and sandboxing [SCM](https://en.wikipedia.org/wiki/Software_configuration_management) tests)
+  * recording and streaming (usually with OBS Studio)
+  * audio editing (usually with Audacity/Tenacity)
+  * video editing (usually with Adobe Premiere)
+  * graphic design (usually with Adobe Illustrator)
 
 ## .*fetch
 
