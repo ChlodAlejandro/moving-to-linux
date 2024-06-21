@@ -1,0 +1,10 @@
+# Flatpak
+Mint comes with Flatpak preinstalled and it's helped with easing the setup process for quite a few things. Unfortunately, it also has its pitfalls.
+
+## Issues encountered
+### Isolation
+Isolation was not something that was made clear to me when installing things from the Software Manager. It was only after VSCodium was not connecting to Discord RPC that I found out that Flatpak applications were isolated and had a limited set of permissions. This is actually a good thing — I appreciate this a lot more than letting programs run free on my laptop — but it seems to be more of a footgun than cases when it isn't.
+
+Take for example the aforementione Discord RPC issue. This was something that was only barely mentioned in the Flathub description for Discord, barely emphasized despite arguably being vital parts of The Discord Experience™. A lot of Flatpak programs have this same issue: things that you expect to work don't work because of isolation, and they're not emphasized that much that you tend to overlook them. To a seasoned Linux user, all of this should be pretty obvious, but it's something that would definitely stump someone who's migrating from Windows to Linux.
+
+Luckily for some, there are usually solutions provided by Flatpak package maintainers. For Discord, [their README](https://github.com/flathub/com.discordapp.Discord?tab=readme-ov-file#differences-in-flatpak-version) goes into detail on the differences. Unluckily, they usually come with drawbacks or require terminal knowledge to implement. Installing a `.deb` file or a ppa feels like an easier option than have to tinker around with software just to make it work, even after you install it. Maybe there should even be post-install scripts specifically to ask the user if they want a specific workaround to be implemented, so that I don't have to go into a terminal and copy-paste some bash wizardry (wherein trusting it blindly is tantamount to just blindly installing the official `.deb` with no Flatpak sandboxing).
