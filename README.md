@@ -28,7 +28,22 @@ For my OS of choice, I decided to go with Linux Mint for the following reasons:
 ## .*fetch
 
 ```
-Windows version to come; I'm writing this while booted into Linux
+                                     chlod@Chlods-Laptop
+################  ################   -------------------
+################  ################   OS: Windows 11 Pro x86_64
+################  ################   Host: Acer TravelMate P249-G2-MG
+################  ################   Kernel: 10.0.22631
+################  ################   Uptime: 5 hours, 17 mins
+################  ################   Packages: 168 (pacman)
+################  ################   Shell: bash 5.2.15
+                                     Resolution: 1366x768, 1366x768
+################  ################   DE: Aero
+################  ################   WM: DWM.exe
+################  ################   CPU: Intel i7-7500U (4) @ 2.910GHz
+################  ################   GPU: NVIDIA GeForce 940MX
+################  ################   GPU: Intel(R) HD Graphics 620
+################  ################   Memory: 13012MiB / 32636MiB
+################  ################
 ```
 
 ```
